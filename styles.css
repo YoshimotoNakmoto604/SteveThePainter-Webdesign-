@@ -1,0 +1,204 @@
+body {
+    background-color: #ffd700; /* Gold background color */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333; /* Dark background color for the header */
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+nav ul li a:hover {
+    color: #ffd700; /* Change text color on hover */
+}
+
+#parasteve {
+    margin-left: 78px;
+
+}
+#divb {
+    margin-left: 78px;;
+}
+#XXX {
+    margin-left: 78px;
+}
+
+#h1steve{
+    margin-left: 83px;
+    size: 69px;
+    text-decoration: overline;
+    text-decoration: underline;
+
+}
+
+#cree {
+    text-align: center;
+    size: 69px;
+}
+#centerframe {
+    width: 1392px;
+    height: 306px;
+    text-align: center;
+}
+
+#xzxz {
+    size: 69px;
+    margin-left: 78px;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-align: left;
+}
+#h1dd {
+    margin-left: 45px;
+
+}
+
+#order {
+    margin-right: 92px;
+}
+
+#divlist {
+    margin-inline: 35px;
+    margin: 0px;
+    margin-left: 78px;
+}
+#centerh1 {
+    text-align: center;
+    text-decoration: line-through;
+    position: relative;
+}
+#Free {
+    text-align: right;
+    size: 50px;
+    margin-left: 50px;
+}
+
+#order {
+    margin-left: 78px;
+    margin-inline: 10px;
+    size: 25px;
+}
+
+#lime {
+    text-align: right;
+    margin-left: 50px;
+    size: 69px;
+    text-decoration-line: underline;
+}
+
+#h1D {
+    margin-right: 78px;
+    size:
+}
+
+#lefth1 {
+    text-align: right;
+
+}
+#divEMC2 {
+    margin-right: 78px;
+
+}
+#p3 {
+    margin-right: 10px;
+    border: 10px floralwhite, solid;
+    margin-top: 13px;
+    text-align: right;
+    margin: 50px;
+}
+#lefth1 {
+    margin-left:  78px;
+    text-decoration: overline;
+    
+}
+h1A {
+    text-align: right;
+    text-decoration: underline;
+    border: #ffd700, 10px, solid;
+}
+pA {
+    text-align: right;
+    margin-block: 10;
+}
+
+#propain {
+    border-bottom: #337, 10px solid;
+    margin-left: 78px;
+    text-align: left;
+    text-decoration: overline;
+}
+#idbb {
+    border-bottom: 8px, khaki, solid;
+    text-align: left;
+    text-decoration: overline;
+    margin-left: 78px;
+}
+#h3bb {
+    margin-left: 78px;
+    text-decoration: underline;
+    text-align: center;
+}
+#EMC {
+    margin-right: 59px;
+    border-left: 10px #ffd700 solid;
+    text-align: left;
+    margin-inline: 20px;
+}
+
+#p {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#cree {
+    text-align: left;
+    size: 11px;
+}
+
+#h3bc{
+    margin: 10px;
+    margin-left: 72px;
+    font-size: 64px;
+    text-align: center;
+    text-decoration: overline;
+}
+
+#dive {
+    margin-left: 78px;
+    text-align: left;
+    text-decoration: underline;
+}
+
+#BBC {
+    text-align: left;
+    margin-left: 78px;
+}
+
+#centerh1 {
+    margin-inline: top, 25px;
+    text-align: right;
+    text-decoration: underline;
+}
+
+#XXX {
+    margin-left: 78px;
+}
