@@ -49,10 +49,12 @@ nav ul li a:hover {
     text-decoration: underline;
 
 }
+#XY {
+    margin-left: 78px;
+}
 
 #cree {
     text-align: center;
-    size: 69px;
 }
 #centerframe {
     width: 1392px;
@@ -61,15 +63,26 @@ nav ul li a:hover {
 }
 
 #xzxz {
-    size: 69px;
     margin-left: 78px;
     text-decoration: overline;
     text-decoration: underline;
     text-align: left;
 }
+
+#SUPER {
+    margin-left: 78px;
+}
+#PLZ {
+    border-radius: 35px;
+    margin-right: 78px;
+}
 #h1dd {
     margin-left: 45px;
 
+}
+
+#Machine {
+    margin-left: 78px;
 }
 
 #order {
