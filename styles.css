@@ -84,6 +84,10 @@ nav ul li a:hover {
 #Machine {
     margin-left: 78px;
 }
+#MXMX {
+    margin-left: 78px;
+    text-decoration-style: underline;
+}
 
 #order {
     margin-right: 92px;
